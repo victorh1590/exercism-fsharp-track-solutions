@@ -1,0 +1,7 @@
+*/*Tests.fs
+*/*.fsproj
+*/*.md
+*/*/
+*/Folder*
+*/.*
+.t
